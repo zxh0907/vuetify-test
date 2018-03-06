@@ -6,7 +6,6 @@
           <h3 class="headline">游戏数据表</h3>
           <myTb/>
         </v-container>
-        
       </v-content>
     </v-app>
     
